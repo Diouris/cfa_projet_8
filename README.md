@@ -3,11 +3,13 @@
 ## 📌 Contexte & Scénario
 
 Je suis data analyst junior au sein de l’entreprise OpenClassrooms, spécialisée dans la formation en ligne et l’accompagnement des parcours de reconversion professionnelle dans la filière data. Elle souhaite mieux comprendre l’évolution du profil sociodémographique de ses étudiants inscrits aux parcours Data sur 4 ans
+
 **Entreprise fictive :** OpenClassrooms
 **Date :** Avril 2026
 ---
 ## 🎯 Objectif Business
 Modéliser et fiabiliser les profils sociodémographiques des étudiants OpenClassrooms via DBT.
+
 ---
 ## 🛠️ Outils & Compétences mobilisés
 
