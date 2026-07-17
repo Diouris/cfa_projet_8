@@ -1,6 +1,6 @@
 # cfa_projet_8
-# 🎯 Analysez l'évolution de profils sociodémographiques avec DBT
-## 📌 Contexte & Scénario
+# Analysez l'évolution de profils sociodémographiques avec DBT
+## Contexte & Scénario
 
 Je suis data analyst junior au sein de l’entreprise OpenClassrooms, spécialisée dans la formation en ligne et l’accompagnement des parcours de reconversion professionnelle dans la filière data. Elle souhaite mieux comprendre l’évolution du profil sociodémographique de ses étudiants inscrits aux parcours Data sur 4 ans
 
@@ -9,11 +9,11 @@ Je suis data analyst junior au sein de l’entreprise OpenClassrooms, spécialis
 **Date :** Avril 2026
 
 ---
-## 🎯 Objectif Business
+## Objectif Business
 Modéliser et fiabiliser les profils sociodémographiques des étudiants OpenClassrooms via DBT.
 
 ---
-## 🛠️ Outils & Compétences mobilisés
+## Outils & Compétences mobilisés
 
 ### Outils utilisés
 | Outil | Usage |
@@ -35,7 +35,7 @@ Modéliser et fiabiliser les profils sociodémographiques des étudiants OpenCla
   - Comprendre un besoin utilisateur
   - Transformer un contexte client flou en objectif analytique précis
 ---
-## 📦 Livrables produits
+## Livrables produits
 - [x] Présentation PowerPoint
 - [x] Fichier CSV
 - [x] Workflow DBT
